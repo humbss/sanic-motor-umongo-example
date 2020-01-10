@@ -65,11 +65,12 @@ Python 3+ event-loop application using Sanic as framework fully integrated with 
 `[POST]` localhost:8000/user/
 
 Payload:
-
+    
     {
-        "first":"55555555",
-        "last":"1212"
+        "email":"bill@microsoft.com",
+        "name":"Sir William Gates"
     }
+    
     
 
 `[GET]` localhost:8000/user/INSERTED-ID
