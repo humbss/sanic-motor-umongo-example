@@ -1,0 +1,6 @@
+sanic==19.9.0
+aiotask-context==0.6.0
+sanic-openapi==0.6.0
+pytest==5.3.2
+umongo==2.2.0
+motor==2.0.0
