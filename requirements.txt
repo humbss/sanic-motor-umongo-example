@@ -1,4 +1,4 @@
-sanic==19.9.0
+sanic==20.12.6
 aiotask-context==0.6.0
 sanic-openapi==0.6.0
 pytest==5.3.2
